@@ -57,4 +57,4 @@ async def assist(ctx):
     embed.add_field(name=f"`feed.read <feed>`", value=f"You can put an active and supported feed here. You can enter a feed URL or use one of the feeds we give. They are `nasa` and `foxnews`", inline=False)
     await ctx.send(embed=embed)
 
-client.run('ODQxMzA1NTE2OTk0MzMwNjI0.YJk00Q.plAwgWE5624wBlnQKlrltgNhhRA')
+client.run('token')
