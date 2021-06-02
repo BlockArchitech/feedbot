@@ -6,7 +6,7 @@ FeedBot RSS reader for Discord.
 To run, just run the python file:
 `python3 feedbot.py`
 
-To contirbute:
+# Contribution
 
 Bug Reporting:
 - Open an issue
