@@ -18,3 +18,6 @@ Making Changes:
 - Fork the repo
 - Make Changes
 - Open PR
+
+# License
+MIT. Do whatever!
